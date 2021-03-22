@@ -13,7 +13,7 @@ const users = [];
 
 const siteConfig = {
     title: 'Manasa Bhat', // Title for your website.
-    tagline: 'Passionate Software Developer',
+    tagline: 'Passionate Software Engineer/Developer',
     profilePhoto: 'img/profile.png',
     url: 'https://manasabhat01.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
